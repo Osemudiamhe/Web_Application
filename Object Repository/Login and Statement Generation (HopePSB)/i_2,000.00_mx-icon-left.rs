@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_2,000.00_mx-icon-left</name>
+   <tag></tag>
+   <elementGuidId>6bfd2fa3-c12c-4060-ae68-b7bf5cdd9e11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.mx-icon-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>b50ec536-74cd-4bf7-bbe9-63d047b26713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-icon-left</value>
+      <webElementGuid>d10f2798-e17a-4350-9099-a18392f87397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;mx-datepicker-main mx-datepicker-popup&quot;]/div[@class=&quot;mx-datepicker-content&quot;]/div[@class=&quot;mx-datepicker-body&quot;]/div[@class=&quot;mx-calendar mx-calendar-panel-date&quot;]/div[@class=&quot;mx-calendar-header&quot;]/button[@class=&quot;mx-btn mx-btn-text mx-btn-icon-left&quot;]/i[@class=&quot;mx-icon-left&quot;]</value>
+      <webElementGuid>c217262b-a646-4975-b6f8-adc3d7a427ad</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/i</value>
+      <webElementGuid>27f3ce56-37cf-4b86-b2c1-dfce79efb10a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

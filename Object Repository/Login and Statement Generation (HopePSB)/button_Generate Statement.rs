@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Generate Statement</name>
+   <tag></tag>
+   <elementGuidId>e7d624c9-cef6-4693-9673-9b7111cf76ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.view_statement-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div/div/div/div[3]/div[2]/div/div[2]/div[2]/div/div/div/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bea63b15-a52c-48ef-b1f2-a6ad4f7e34b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>view_statement-btn</value>
+      <webElementGuid>4f25d1af-1e08-466a-acf4-057742a15dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Generate Statement </value>
+      <webElementGuid>f36b6e9a-8cc2-493a-ab8b-93f010da42dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[1]/div[@class=&quot;dashboard-page overview_main_page&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;main_dashboard&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;main_dashboard_inner3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-8&quot;]/div[@class=&quot;overview_border&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/div[@class=&quot;account_details1-&quot;]/div[@class=&quot;account_details1&quot;]/div[@class=&quot;view_statement&quot;]/a[1]/button[@class=&quot;view_statement-btn&quot;]</value>
+      <webElementGuid>83cdbef1-163e-45d1-8ab7-53bc8ba44cc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div[2]/div[2]/div/div/div/div[3]/div[2]/div/div[2]/div[2]/div/div/div/a/button</value>
+      <webElementGuid>cb409146-61da-4fd5-bd96-9ec2e45f159f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='›'])[1]/following::button[1]</value>
+      <webElementGuid>00c36920-d708-4c6d-897f-bfa7a9e3ca80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='‹'])[1]/following::button[1]</value>
+      <webElementGuid>de645ab2-ce40-48db-a95d-bb1155166041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Payment'])[1]/preceding::button[1]</value>
+      <webElementGuid>42b94a0a-320e-4d57-a178-84ae2a20aefa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Transfer'])[1]/preceding::button[2]</value>
+      <webElementGuid>e96f0bb7-1762-4e45-9854-2dcbeedfd6c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a/button</value>
+      <webElementGuid>ce583251-8c84-48f7-8b58-e5ef8be5adc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Generate Statement ' or . = ' Generate Statement ')]</value>
+      <webElementGuid>c15a7b2d-6c3d-4155-b478-d757fd532007</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

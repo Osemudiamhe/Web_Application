@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login to Continue</name>
+   <tag></tag>
+   <elementGuidId>b9b3e62e-3efd-4212-b423-d3ad9daeebbb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.register-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div/div/a/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>54ebc649-fddd-4917-b6c9-635d890cf091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>register-btn</value>
+      <webElementGuid>ac3a4732-0963-4f9d-96d9-9c28efad0766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login to Continue</value>
+      <webElementGuid>13f19e28-380e-428f-ab59-b2ad8d2837b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/div[@class=&quot;contact-page&quot;]/div[@class=&quot;container registerModal&quot;]/div[@class=&quot;banking-instruction&quot;]/div[@class=&quot;ibanking&quot;]/div[@class=&quot;row no-gutters w-100&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;left_info_nav&quot;]/div[@class=&quot;btn-width&quot;]/a[1]/div[@class=&quot;register-button&quot;]/button[@class=&quot;register-btn&quot;]</value>
+      <webElementGuid>f7b78b06-3499-4dd0-9336-1627df82b344</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/div/div/div/div/a/div/button</value>
+      <webElementGuid>3f7f9b2c-c2ba-4a49-9d9d-598696e0cb39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your bank details are very sensitive information never share with anyone'])[1]/following::button[1]</value>
+      <webElementGuid>bfd33cdb-417f-41d7-a42d-d0440ab49a4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hope PSBank'])[1]/following::button[1]</value>
+      <webElementGuid>2c444b84-6c6e-4733-8ff1-042064678ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register to Get Started'])[1]/preceding::button[1]</value>
+      <webElementGuid>90fe7035-d75e-4fab-b59f-7095e81cdd8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Account'])[2]/preceding::button[4]</value>
+      <webElementGuid>ee783af5-5701-46eb-a812-bae9e65a8b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login to Continue']/parent::*</value>
+      <webElementGuid>e28bb702-ebf9-4cc1-82ec-c5779403b36e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/button</value>
+      <webElementGuid>6922332a-62a4-4708-a84c-8887bfa3c5b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Login to Continue' or . = 'Login to Continue')]</value>
+      <webElementGuid>347cc7fd-4505-49b1-8a47-25b0cbe33f94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
